@@ -18,8 +18,6 @@ public class ServerBootstrap {
 
 	public static final int port = 33221;// 33201~33250
 	
-	public static final String WEB_ROOT = "D:/book";
-
 	private ServerSocket serverSocket;
 
 	// logger
